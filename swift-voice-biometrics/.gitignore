@@ -1,0 +1,16 @@
+# Data and models
+/data/
+/models/*.pkl
+/models/*.h5
+/models/*.pt
+
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log 
